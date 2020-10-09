@@ -14,6 +14,7 @@ namespace WebApplication1
         // program class
         public static void Main(string[] args)
         {
+            // comment in main branch
             CreateHostBuilder(args).Build().Run();
         }
 
